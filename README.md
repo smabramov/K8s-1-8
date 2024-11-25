@@ -36,19 +36,19 @@
 
 Создадим namespace для задания:
 
-![k1]()
+![k1](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/png/k1.png)
 
-[service.yaml]()
+[service.yaml](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/code/1/service.yaml)
 
-![k2]()
+![k2](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/png/k2.png)
 
-[config_map]()
+[config_map](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/code/1/config_map.yaml)
 
-![k3]()
+![k3](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/png/k3.png)
 
-[deployment.yaml]()
+[deployment.yaml](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/code/1/deployment.yaml)
 
-![k4]()
+![k4](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/png/k4.png)
 
 ```
 
@@ -134,11 +134,11 @@ Events:
 
   ```
 
-  ![k5]()
+  ![k5](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/png/k5.png)
 
-  ![k6]()
+  ![k6](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/png/k6.png)
 
-  ![k7]()
+  ![k7](https://github.com/smabramov/K8s-1-8/blob/82c4534e9bae959d5bbefb02b8b440b6740b48e6/png/k7.png)
 
 
 ### Задание 2. Создать приложение с вашей веб-страницей, доступной по HTTPS 
