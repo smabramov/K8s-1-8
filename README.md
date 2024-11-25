@@ -153,19 +153,19 @@ Events:
 
 ### Решение
 
-[deployment.yaml]()
+[deployment.yaml](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/code/2/deployment.yaml)
 
-[config_map_my.yaml]()
+[config_map_my.yaml](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/code/2/config_map_my.yaml)
 
 Сертификаты:
 
-[tls.crt]()
+[tls.crt](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/code/2/cert/tls.crt)
 
-[tls.key]()
+[tls.key](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/code/2/cert/tls.key)
 
-![k8]()
+![k8](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/png/k8.png)
 
-![K9]()
+![K9](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/png/k9.png)
 
 ```
 
@@ -190,9 +190,9 @@ metadata:
 
 ```
 
-[ingress.yaml]()
+[ingress.yaml](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/code/2/ingress.yaml)
 
-[service.yaml]()
+[service.yaml](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/code/2/service.yaml)
 
 ```
 serg@k8snode:~/git/K8s-1-8/code/2$ kubectl apply -f config_map_my.yaml 
@@ -217,9 +217,9 @@ NAME                                             DESIRED   CURRENT   READY   AGE
 replicaset.apps/netology-deployment-755686fd57   1         1         1       6s
 
 ```
-![k10]()
+![k10](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/png/k10.png)
 
-![k11]()
+![k11](https://github.com/smabramov/K8s-1-8/blob/b40bc6ac68d4222b61ebe04b32d87fdfb63f0f0a/png/k11.png)
 
 
 
